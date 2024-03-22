@@ -1,7 +1,7 @@
 # CNN-Projects
 Welcome to the Convolutional Neural Network (CNN) project repository! This project focuses on building and deploying deep learning models using CNNs for various computer vision tasks.
 
-Features:
+## Features:
 State-of-the-art Models: Implementations of popular CNN architectures such as VGG, Inception and development of own models.
 
 Modular Design: Each model is designed to be modular and easily customizable for different datasets and tasks.
@@ -14,7 +14,7 @@ Visualization Tools: Tools for visualizing model training progress, feature maps
 
 Deployment Guides: Step-by-step guides for deploying CNN models in various production environments.
 
-Project Structure:
+## Project Structure:
 /models: Implementation of CNN models.
 
 /datasets: Sample datasets for training and testing models.
